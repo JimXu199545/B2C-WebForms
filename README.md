@@ -35,7 +35,7 @@ Now you need to create your own application in your B2C tenant, so that your app
 
 - Enable the **Web App/Web API** setting for your application.
 - Add **two** rediect_uris for your app.  Their values should take the form 
-    - `http://localhost:58851/`
+    - `http://localhost:56708/`
 - Copy the Application ID generated for your application, so you can use it in the next step.
 
 ### Step 5: Configure the sample to use your Azure AD B2C tenant
